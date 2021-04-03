@@ -21,7 +21,7 @@ Make sure you have enough GPU resources to run, for this project I used P100 on 
 
 # Assumptions
 
-1. I'm assumed that the most recent 'experience' and 'education' are more relevant than previous history for predicting current seniority level. For eg, A SDE-2 engineer might list past internships as experience but according to recent experience he is mid-level.
+1. I assumed that the most recent 'experience' and 'education' are more relevant than previous history for predicting current seniority level. For eg, A SDE-2 engineer might list past internships as experience but according to recent experience he is mid-level.
 
 2. Assumed Experience and education are sorted according to time, so I took first element for convenience.
 
