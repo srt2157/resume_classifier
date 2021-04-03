@@ -64,8 +64,8 @@ For linear regression ~1.8 seconds
 For Neural network ~ 165.64 seconds
 
 # Results:
-1. If 'title' + 'skills' is used got training accuracy of ~90% and testing accuracy ~75%, f1-score~0.82
-2. If only 'title' feature is used got training accuracy of 95%,whereas testing is 76%,f1-score~0.82
-3. If all features are used got training accuracy of ~95%,whereas testing is 75%,f1-score~0.84
+1. If 'title' + 'skills' is used got training accuracy of \~90% and testing accuracy \~75%, f1-score\~0.82
+2. If only 'title' feature is used got training accuracy of 95%,whereas testing is 76%,f1-score\~0.82
+3. If all features are used got training accuracy of \~95%,whereas testing is 75%,f1-score\~0.84
 
 
