@@ -59,9 +59,9 @@ Make sure you have enough GPU resources to run, for this project I used P100 on 
 # Model Selection:
 
 I choose neural network because it is giving more f1-score compared to other classifiers such as linear classifier is (~0.79).
-But tradeoff is more training time 
-For linear regression ~1.8 seconds
+But tradeoff is more training time.
 For Neural network ~ 165.64 seconds
+For linear regression ~1.8 seconds
 
 # Results:
 1. If 'title' + 'skills' is used got training accuracy of \~90% and testing accuracy \~75%, f1-score\~0.82
